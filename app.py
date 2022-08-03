@@ -8,6 +8,7 @@ Created on Wed Aug  3 21:54:42 2022
 
 import streamlit as st 
 from PIL import Image
+import nltk
 import pickle
 import numpy as np
 import matplotlib.pyplot as plt
